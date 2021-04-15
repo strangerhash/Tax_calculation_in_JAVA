@@ -3,9 +3,8 @@ package main;
 /*
  * Code written By 
  * @author
- * Poorvika Pandey
+ * Satyendra Pandey
 */
-
 import java.util.ArrayList;
 import java.util.Iterator;
 import java.util.Scanner;
@@ -39,7 +38,7 @@ public class MainActivity {
 
 			System.out.println("-----------------------------------------------");
 
-			System.out.println("Enter your details\n");
+			System.out.println("Enter your details\n\n");
 
 			System.out.println("-----------------------------------------------");
 

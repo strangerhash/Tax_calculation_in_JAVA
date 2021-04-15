@@ -3,8 +3,9 @@ package taxcalculate;
 /*
  * Code written By 
  * @author
- * Poorvika Pandey
+ * Satyendra Pandey
 */
+
 import java.util.ArrayList;
 
 import constants.TaxConstant;
